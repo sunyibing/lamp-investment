@@ -1,0 +1,2 @@
+sh000888	ct_avg_noise_avg_Tdx平均成交价
+sh000888	ct_avg_noise_avg_Tdx收盘价

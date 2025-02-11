@@ -1,0 +1,1 @@
+sh688009	ct_avg_Tdx收盘价	ct_avg_noise_avg_Tdx收盘价	0.82

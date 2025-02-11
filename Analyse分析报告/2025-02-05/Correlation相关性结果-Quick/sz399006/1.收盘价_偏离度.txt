@@ -1,0 +1,1 @@
+sz399006	ct_avg_Tdx平均成交价	deviate_avg_100_ct_avg_Tdx平均成交价	0.97

@@ -1,0 +1,1 @@
+sh603195	ct_avg_noise_avg_前复权价格

@@ -1,0 +1,3 @@
+sz399006	ct_avg_noise_avg_Tdx平均成交价
+sz399006	ct_avg_noise_avg_Tdx收盘价
+sz399006	deviate_avg_100_ct_avg_Tdx平均成交价

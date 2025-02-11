@@ -1,0 +1,3 @@
+sh000300	ct_avg_noise_avg_Tdx平均成交价
+sh000300	ct_avg_noise_avg_Tdx收盘价
+sh000300	deviate_avg_100_ct_avg_Tdx平均成交价

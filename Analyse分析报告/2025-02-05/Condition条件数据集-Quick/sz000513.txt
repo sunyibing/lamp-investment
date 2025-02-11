@@ -1,0 +1,3 @@
+sz000513	ct_avg_noise_avg_Tdx收盘价
+sz000513	ct_avg_noise_avg_前复权价格
+sz000513	deviate_avg_100_ct_avg_Tdx收盘价

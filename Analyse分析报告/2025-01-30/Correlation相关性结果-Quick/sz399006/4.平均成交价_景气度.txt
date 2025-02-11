@@ -1,0 +1,1 @@
+sz399006	ct_avg_Tdx平均成交价	ct_avg_noise_avg_Tdx平均成交价	0.36

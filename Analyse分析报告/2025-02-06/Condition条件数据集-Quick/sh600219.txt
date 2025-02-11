@@ -1,0 +1,4 @@
+sh600219	ct_avg_noise_avg_Tdx收盘价
+sh600219	ct_avg_noise_avg_前复权价格
+sh600219	deviate_avg_100_ct_avg_Tdx收盘价
+sh600219	deviate_avg_100_ct_avg_前复权价格

@@ -1,0 +1,2 @@
+sh600588	ct_avg_noise_avg_Tdx收盘价
+sh600588	deviate_avg_100_ct_avg_Tdx收盘价

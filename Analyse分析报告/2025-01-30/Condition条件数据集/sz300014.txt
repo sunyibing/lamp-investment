@@ -1,0 +1,2 @@
+sz300014	deviate_avg_100_ct_avg_Tdx收盘价
+sz300014	deviate_avg_100_ct_avg_前复权价格

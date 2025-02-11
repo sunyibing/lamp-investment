@@ -1,0 +1,3 @@
+sz002678	ct_avg_noise_avg_前复权价格
+sz002678	deviate_avg_100_ct_avg_Tdx收盘价
+sz002678	deviate_avg_100_ct_avg_前复权价格

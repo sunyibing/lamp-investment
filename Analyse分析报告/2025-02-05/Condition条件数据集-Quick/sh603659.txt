@@ -1,0 +1,2 @@
+sh603659	ct_avg_noise_avg_Tdx收盘价
+sh603659	ct_avg_noise_avg_前复权价格

@@ -1,0 +1,1 @@
+sh601633	ct_avg_Tdx收盘价	deviate_avg_100_ct_avg_Tdx收盘价	1

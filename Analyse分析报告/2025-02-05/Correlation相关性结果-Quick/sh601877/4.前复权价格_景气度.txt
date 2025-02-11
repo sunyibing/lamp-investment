@@ -1,0 +1,1 @@
+sh601877	ct_avg_前复权价格	ct_avg_noise_avg_前复权价格	0.12

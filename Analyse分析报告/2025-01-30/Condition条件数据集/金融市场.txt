@@ -1,0 +1,2 @@
+金融市场	deviate_avg_12_票值价格
+金融市场	noise_avg_票值价格
