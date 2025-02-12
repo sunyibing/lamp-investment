@@ -1,0 +1,5 @@
+sz300059	ct_avg_noise_avg_Tdx收盘价
+sz300059	deviate_avg_100_ct_avg_Tdx收盘价
+sz300059	deviate_avg_100_ct_avg_前复权价格
+sz300059	人均持股
+sz300059	股东人数

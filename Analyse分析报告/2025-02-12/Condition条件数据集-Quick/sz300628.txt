@@ -1,0 +1,3 @@
+sz300628	ct_avg_noise_avg_Tdx收盘价
+sz300628	人均持股
+sz300628	股东人数

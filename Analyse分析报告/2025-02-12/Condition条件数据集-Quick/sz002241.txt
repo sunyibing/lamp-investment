@@ -1,0 +1,5 @@
+sz002241	ct_avg_noise_avg_Tdx收盘价
+sz002241	deviate_avg_100_ct_avg_Tdx收盘价
+sz002241	deviate_avg_100_ct_avg_前复权价格
+sz002241	人均持股
+sz002241	股东人数

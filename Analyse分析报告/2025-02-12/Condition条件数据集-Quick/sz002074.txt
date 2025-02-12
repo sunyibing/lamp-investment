@@ -1,0 +1,4 @@
+sz002074	ct_avg_noise_avg_Tdx收盘价
+sz002074	deviate_avg_100_ct_avg_Tdx收盘价
+sz002074	deviate_avg_100_ct_avg_前复权价格
+sz002074	股东人数

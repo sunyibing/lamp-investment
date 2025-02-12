@@ -1,0 +1,4 @@
+sh601012	deviate_avg_100_ct_avg_Tdx收盘价
+sh601012	deviate_avg_100_ct_avg_前复权价格
+sh601012	人均持股
+sh601012	股东人数

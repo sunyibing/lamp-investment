@@ -1,0 +1,3 @@
+sh603893	ct_avg_noise_avg_Tdx收盘价
+sh603893	ct_avg_noise_avg_前复权价格
+sh603893	股东人数

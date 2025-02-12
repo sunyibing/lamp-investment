@@ -1,0 +1,4 @@
+sz003816	ct_avg_noise_avg_Tdx收盘价
+sz003816	ct_avg_noise_avg_前复权价格
+sz003816	人均持股
+sz003816	股东人数

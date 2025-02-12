@@ -1,0 +1,3 @@
+sh600893	deviate_avg_100_ct_avg_Tdx收盘价
+sh600893	人均持股
+sh600893	股东人数

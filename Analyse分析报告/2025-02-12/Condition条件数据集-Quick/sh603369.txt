@@ -1,0 +1,4 @@
+sh603369	deviate_avg_100_ct_avg_Tdx收盘价
+sh603369	deviate_avg_100_ct_avg_前复权价格
+sh603369	人均持股
+sh603369	股东人数

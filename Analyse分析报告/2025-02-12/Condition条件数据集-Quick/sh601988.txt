@@ -1,0 +1,6 @@
+sh601988	ct_avg_noise_avg_Tdx收盘价
+sh601988	ct_avg_noise_avg_前复权价格
+sh601988	deviate_avg_100_ct_avg_Tdx收盘价
+sh601988	deviate_avg_100_ct_avg_前复权价格
+sh601988	人均持股
+sh601988	股东人数

@@ -1,0 +1,4 @@
+sh601816	ct_avg_noise_avg_Tdx收盘价
+sh601816	ct_avg_noise_avg_前复权价格
+sh601816	人均持股
+sh601816	股东人数

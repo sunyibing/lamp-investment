@@ -1,0 +1,3 @@
+sh688396	ct_avg_noise_avg_Tdx收盘价
+sh688396	ct_avg_noise_avg_前复权价格
+sh688396	人均持股

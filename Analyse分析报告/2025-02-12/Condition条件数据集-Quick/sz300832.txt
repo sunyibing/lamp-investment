@@ -1,0 +1,4 @@
+sz300832	ct_avg_noise_avg_Tdx收盘价
+sz300832	ct_avg_noise_avg_前复权价格
+sz300832	人均持股
+sz300832	股东人数

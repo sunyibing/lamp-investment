@@ -1,0 +1,3 @@
+sz002938	ct_avg_noise_avg_Tdx收盘价
+sz002938	ct_avg_noise_avg_前复权价格
+sz002938	股东人数

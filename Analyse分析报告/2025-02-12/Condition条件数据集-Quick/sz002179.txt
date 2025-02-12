@@ -1,0 +1,3 @@
+sz002179	deviate_avg_100_ct_avg_Tdx收盘价
+sz002179	人均持股
+sz002179	股东人数

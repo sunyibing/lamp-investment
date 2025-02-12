@@ -1,0 +1,6 @@
+sh601211	ct_avg_noise_avg_Tdx收盘价
+sh601211	ct_avg_noise_avg_前复权价格
+sh601211	deviate_avg_100_ct_avg_Tdx收盘价
+sh601211	deviate_avg_100_ct_avg_前复权价格
+sh601211	人均持股
+sh601211	股东人数

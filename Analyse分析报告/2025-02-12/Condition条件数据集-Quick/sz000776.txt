@@ -1,0 +1,5 @@
+sz000776	ct_avg_noise_avg_Tdx收盘价
+sz000776	ct_avg_noise_avg_前复权价格
+sz000776	deviate_avg_100_ct_avg_Tdx收盘价
+sz000776	deviate_avg_100_ct_avg_前复权价格
+sz000776	人均持股

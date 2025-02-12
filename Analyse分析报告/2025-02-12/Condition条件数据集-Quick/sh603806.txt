@@ -1,0 +1,5 @@
+sh603806	ct_avg_noise_avg_Tdx收盘价
+sh603806	deviate_avg_100_ct_avg_Tdx收盘价
+sh603806	deviate_avg_100_ct_avg_前复权价格
+sh603806	人均持股
+sh603806	股东人数

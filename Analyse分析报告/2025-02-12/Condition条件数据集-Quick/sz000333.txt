@@ -1,0 +1,5 @@
+sz000333	ct_avg_noise_avg_Tdx收盘价
+sz000333	deviate_avg_100_ct_avg_Tdx收盘价
+sz000333	deviate_avg_100_ct_avg_前复权价格
+sz000333	人均持股
+sz000333	股东人数

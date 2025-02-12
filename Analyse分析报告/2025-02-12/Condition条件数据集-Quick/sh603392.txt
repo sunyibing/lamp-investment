@@ -1,0 +1,3 @@
+sh603392	ct_avg_noise_avg_Tdx收盘价
+sh603392	人均持股
+sh603392	股东人数

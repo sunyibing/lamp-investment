@@ -1,0 +1,4 @@
+sh600941	ct_avg_noise_avg_Tdx收盘价
+sh600941	ct_avg_noise_avg_前复权价格
+sh600941	人均持股
+sh600941	股东人数

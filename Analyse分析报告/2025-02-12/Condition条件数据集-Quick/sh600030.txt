@@ -1,0 +1,5 @@
+sh600030	ct_avg_noise_avg_Tdx收盘价
+sh600030	ct_avg_noise_avg_前复权价格
+sh600030	deviate_avg_100_ct_avg_Tdx收盘价
+sh600030	deviate_avg_100_ct_avg_前复权价格
+sh600030	人均持股

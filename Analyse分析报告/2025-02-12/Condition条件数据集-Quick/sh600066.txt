@@ -1,0 +1,4 @@
+sh600066	ct_avg_noise_avg_Tdx收盘价
+sh600066	deviate_avg_100_ct_avg_Tdx收盘价
+sh600066	人均持股
+sh600066	股东人数

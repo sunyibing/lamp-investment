@@ -1,0 +1,5 @@
+sh600426	ct_avg_noise_avg_Tdx收盘价
+sh600426	deviate_avg_100_ct_avg_Tdx收盘价
+sh600426	deviate_avg_100_ct_avg_前复权价格
+sh600426	人均持股
+sh600426	股东人数

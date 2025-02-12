@@ -1,0 +1,1 @@
+sh600600	ct_avg_前复权价格	deviate_avg_100_ct_avg_前复权价格	0.21

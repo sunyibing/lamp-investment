@@ -1,0 +1,4 @@
+sz001965	ct_avg_noise_avg_Tdx收盘价
+sz001965	ct_avg_noise_avg_前复权价格
+sz001965	人均持股
+sz001965	股东人数

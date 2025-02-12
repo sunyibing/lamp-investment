@@ -1,0 +1,3 @@
+sz000568	deviate_avg_100_ct_avg_Tdx收盘价
+sz000568	deviate_avg_100_ct_avg_前复权价格
+sz000568	股东人数
